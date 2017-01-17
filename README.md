@@ -1,3 +1,5 @@
+Power FTDI SPI and I2C Shield for Onion Omega2
+==============================================
 
 <img src="https://raw.githubusercontent.com/OnionIoT/Onion-Docs/master/Omega2/Documentation/Hardware-Overview/img/Omega-2-Pinout-Diagram.png" alt="Omega2" width="50%" height="50%"> 
 
@@ -10,6 +12,7 @@ This shield is used to power and to expose [Onion Omega2](https://onion.io/) Ser
 
 You can find more information on WeMos on their [site](https://onion.io/), it's really well [documented](https://docs.onion.io/omega2-docs/index.html) here and pinout is [here](https://docs.onion.io/omega2-docs/omega2.html#the-pins)
 
+**Waiting for V1.0 Boards from [PCBs.io](https://PCBs.io/share/4976j). I did not fully tested them yet, I will update ASAP. Use at your own risks**
 
 Detailed Description
 ====================
@@ -35,6 +38,7 @@ EZSBC [Usb To Serial UART 5V or 3V3](https://www.tindie.com/products/ddebeer/usb
 <img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/Omega2-IO-Power-top.png" alt="Top" width="40%" height="40%">&nbsp;
 <img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/masterOmega2-IO-Power-bot.png" alt="Bottom" width="40%" height="40%">&nbsp; 
 
+You can order the PCB of this board at [PCBs.io](https://PCBs.io/share/4976j). PCBs.io give me reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order boards for a discounted price and share new boards. So if you don't care about PCB manufacturer please use PCBs.io.
 
 ### Assembled boards (V1.0)
 

@@ -13,7 +13,7 @@ This shield is used to power and to expose [Onion Omega2](https://onion.io/) Ser
 - FTDI connector to Omega2 Serial0 (SMD or PTH) 
 - USB Mini connector to power the whole thing and Omega2
 
-You can find more information on WeMos on their [site](https://onion.io/), it's really well [documented](https://docs.onion.io/omega2-docs/index.html) here.
+You can find more information on Omega2 on their [site](https://onion.io/), it's really well [documented](https://docs.onion.io/omega2-docs/index.html) here.
 
 **Waiting for V1.0 Boards from [PCBs.io](https://PCBs.io/share/4976j). I did not fully tested them yet, I will update ASAP. Use at your own risks**
 

@@ -36,8 +36,12 @@ Here are example of FTDI 3V3 connector that should work
 ![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-sch.png)  
 
 ### Boards 
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.png" alt="Top" width="40%" height="40%">&nbsp;
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.png" alt="Bottom" width="40%" height="40%">&nbsp; 
+
+**Top**
+![Top](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg)  
+
+**Bottom**
+![Bottom](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg)  
 
 You can order the PCB of this board at [PCBs.io](https://PCBs.io/share/4976j). PCBs.io give me reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order boards for a discounted price and share new boards. So if you don't care about PCB manufacturer please use PCBs.io.
 

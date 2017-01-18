@@ -1,7 +1,10 @@
-Power FTDI SPI and I2C Shield for Onion Omega2
-==============================================
+Power FTDI SPI and I2C or Full GPIO Shields for Onion Omega2
+============================================================
 
-This shield is used to power and to expose [Onion Omega2](https://onion.io/) Serial/SPI/I2C bus, it has just few minimal features such as wiring and 3V3 regulator. 
+This shield is used to power and to expose [Onion Omega2](https://onion.io/) gpio pins. it has just few minimal features such as wiring and 3V3 regulator and exists in 2 versions
+
+- **Basic**: same size than Omega2, exposing Serial/SPI/I2C 
+- **Full**: little bigger but exposing all Omega2 pins
 
 <img src="https://raw.githubusercontent.com/OnionIoT/Onion-Docs/master/Omega2/Documentation/Hardware-Overview/img/Omega-2-Pinout-Diagram.png" alt="Omega2" width="50%" height="50%"> 
 
@@ -10,12 +13,13 @@ This shield is used to power and to expose [Onion Omega2](https://onion.io/) Ser
 - I2C Pullups placement
 - I2C 4 pins connector
 - SPI 6 pins connector
+- Full Omega2 GPIO pins (Full version only)
 - FTDI connector to Omega2 Serial0 (SMD or PTH) 
 - USB Mini connector to power the whole thing and Omega2
 
 You can find more information on Omega2 on their [site](https://onion.io/), it's really well [documented](https://docs.onion.io/omega2-docs/index.html) here.
 
-**Waiting for V1.0 Boards from [PCBs.io](https://PCBs.io/share/4976j). I did not fully tested them yet, I will update ASAP. Use at your own risks**
+**Waiting for V1.0 Boards from [PCBs.io](https://PCBs.io). I did not fully tested them yet, I will update ASAP. Use at your own risks**
 
 Detailed Description
 ====================
@@ -36,19 +40,22 @@ Here are example of FTDI 3V3 connector that should work
 - EZSBC [Usb To Serial UART 5V or 3V3](https://www.tindie.com/products/ddebeer/usb-to-serial--uart-5v-or-33v-695-/) up to 250mA out at 3V3
 
 ### Schematic
+
+** Basic version**
 ![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-sch.png)  
+
+** Full GPIO version**
+![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-sch.png)  
 
 ### Boards 
 
-**Top**   
+**Basic**   
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="50%" height="50%">&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg" alt="Bottom" width="50%" height="50%">&nbsp;
 
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top">
+**Full GPIO version**   
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-top.jpg" alt="Top"  width="50%" height="50%">&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-bot.jpg" alt="Bottom" width="50%" height="50%">&nbsp;
 
-**Bottom**   
-
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg" alt="Bottom">
-
-You can order the PCB of this board at [PCBs.io](https://PCBs.io/share/4976j). PCBs.io give me reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order boards for a discounted price and share new boards. So if you don't care about PCB manufacturer please use PCBs.io.
+You can order PCB of [Basic Version](https://PCBs.io/share/4976j) or [Full GPIO Version](https://PCBs.io/share/4KEo9) at PCBs.io. PCBs.io give me reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order boards for a discounted price and share new boards. So if you don't care about PCB manufacturer please use PCBs.io.
 
 ### Assembled boards (V1.0)
 
@@ -63,3 +70,4 @@ If you want to do commercial stuff with this project, please contact [CH2i compa
 ##Misc
 See news and other projects on my [blog](https://hallard.me)
  
+

@@ -50,10 +50,10 @@ Here are example of FTDI 3V3 connector that should work
 ### Boards 
 
 **Basic** Click on image to zoom   
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="33%" height="33%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg" alt="Bottom" width="33%" height="33%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="40%" height="40%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg" alt="Bottom" width="40%" height="40%">&nbsp;
 
 **Full GPIO version** Click on image to zoom   
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-top.jpg" alt="Top"  width="33%" height="33%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-bot.jpg" alt="Bottom" width="33%" height="33%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-top.jpg" alt="Top"  width="40%" height="40%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-bot.jpg" alt="Bottom" width="40%" height="40%">&nbsp;
 
 You can order PCB of [Basic Version](https://PCBs.io/share/4976j) or [Full GPIO Version](https://PCBs.io/share/4KEo9) at PCBs.io. PCBs.io give me reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order boards for a discounted price and share new boards. So if you don't care about PCB manufacturer please use PCBs.io.
 

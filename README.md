@@ -26,10 +26,11 @@ You have 2 options to power board :
 
 Take care if you are powered with mini USB and you want to use FTDI cable to connect to console, use a 3V3 FTDI cable and do not close JP1 connector
 
-Here are example of FTDI 3V3 connector that should work
-SparkFun Beefy 3 [FTDI Basic Breakout](https://www.sparkfun.com/products/13746) up to 600mA out at 3V3
-RocketScream [USB/Serial with CH340](http://www.rocketscream.com/blog/product/ch340g-usb-serial-adapter/) up to 100mA out at 3V3
-EZSBC [Usb To Serial UART 5V or 3V3](https://www.tindie.com/products/ddebeer/usb-to-serial--uart-5v-or-33v-695-/) up to 250mA out at 3V3
+Here are example of FTDI 3V3 connector that should work 
+
+- SparkFun Beefy 3 [FTDI Basic Breakout](https://www.sparkfun.com/products/13746) up to 600mA out at 3V3
+- RocketScream [USB/Serial with CH340](http://www.rocketscream.com/blog/product/ch340g-usb-serial-adapter/) up to 100mA out at 3V3
+- EZSBC [Usb To Serial UART 5V or 3V3](https://www.tindie.com/products/ddebeer/usb-to-serial--uart-5v-or-33v-695-/) up to 250mA out at 3V3
 
 ### Schematic
 ![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-sch.png)  

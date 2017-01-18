@@ -1,7 +1,7 @@
 Power FTDI SPI and I2C or Full GPIO Shields for Onion Omega2
 ============================================================
 
-This shield is used to power and to expose [Onion Omega2](https://onion.io/) gpio pins. it has just few minimal features such as wiring and 3V3 regulator and exists in 2 versions
+These shields are used to power and to expose [Onion Omega2](https://onion.io/) gpio pins. it has just few minimal features such as wiring and 3V3 regulator and exists in 2 versions
 
 - **Basic**: same size than Omega2, exposing Serial/SPI/I2C 
 - **Full**: little bigger but exposing all Omega2 pins
@@ -39,18 +39,18 @@ Here are example of FTDI 3V3 connector that should work
 - RocketScream [USB/Serial with CH340](http://www.rocketscream.com/blog/product/ch340g-usb-serial-adapter/) up to 100mA out at 3V3
 - EZSBC [Usb To Serial UART 5V or 3V3](https://www.tindie.com/products/ddebeer/usb-to-serial--uart-5v-or-33v-695-/) up to 250mA out at 3V3
 
-### Schematic
+### Schematics
 
-** Basic version**
+**Basic version**
 ![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-sch.png)  
 
-** Full GPIO version**
+**Full GPIO version**
 ![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-sch.png)  
 
 ### Boards 
 
 **Basic**   
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="50%" height="50%">&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg" alt="Bottom" width="50%" height="50%">&nbsp;
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="33%" height="33%">&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg" alt="Bottom" width="33%" height="33%">&nbsp;
 
 **Full GPIO version**   
 <img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-top.jpg" alt="Top"  width="50%" height="50%">&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-bot.jpg" alt="Bottom" width="50%" height="50%">&nbsp;

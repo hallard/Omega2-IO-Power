@@ -39,7 +39,8 @@ Here are example of FTDI 3V3 connector that should work
 - RocketScream [USB/Serial with CH340](http://www.rocketscream.com/blog/product/ch340g-usb-serial-adapter/) up to 100mA out at 3V3
 - EZSBC [Usb To Serial UART 5V or 3V3](https://www.tindie.com/products/ddebeer/usb-to-serial--uart-5v-or-33v-695-/) up to 250mA out at 3V3
 
-### Schematics
+Schematics
+==========
 
 **Basic version** Click on image to zoom   
 ![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-sch.png)  
@@ -47,7 +48,8 @@ Here are example of FTDI 3V3 connector that should work
 **Full GPIO version** Click on image to zoom   
 ![schematic](https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-sch.png)  
 
-### Boards 
+Boards
+====== 
 
 **Basic** Click on image to zoom   
 <img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="40%" height="40%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-bot.jpg" alt="Bottom" width="40%" height="40%">&nbsp;
@@ -57,17 +59,24 @@ Here are example of FTDI 3V3 connector that should work
 
 You can order PCB of [Basic Version](https://PCBs.io/share/4976j) or [Full GPIO Version](https://PCBs.io/share/4KEo9) at PCBs.io. PCBs.io give me reward when you order my designed boards from their site. This is pretty good, because I can use these rewards to create and design new boards and order boards for a discounted price and share new boards. So if you don't care about PCB manufacturer please use PCBs.io.
 
-### Assembled boards (V1.0)
+Assembled boards (V1.0)
+=======================
 
-TBD
+**Basic** Click on image to zoom   
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="40%" height="40%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-assembled.jpg" alt="Bottom" width="40%" height="40%">&nbsp;
 
-##License
+**Full GPIO version** Click on image to zoom   
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-top.jpg" alt="Top"  width="40%" height="40%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-assembled.jpg" alt="Bottom" width="40%" height="40%">&nbsp;
+
+License
+=======
 
 <img alt="Creative Commons Attribution-NonCommercial 4.0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">   
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)    
 If you want to do commercial stuff with this project, please contact [CH2i company](http://ch2i.eu) so we can organize an simple agreement.
 
-##Misc
+Misc
+====
 See news and other projects on my [blog](https://hallard.me)
  
 

@@ -62,11 +62,11 @@ You can order PCB of [Basic Version](https://PCBs.io/share/4976j) or [Full GPIO 
 Assembled boards (V1.0)
 =======================
 
-**Basic** Click on image to zoom   
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-top.jpg" alt="Top"  width="40%" height="40%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-assembled.jpg" alt="Bottom" width="40%" height="40%">&nbsp;
+**Basic**
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-assembled.jpg" alt="Basic">
 
-**Full GPIO version** Click on image to zoom   
-<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-top.jpg" alt="Top"  width="40%" height="40%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-assembled.jpg" alt="Bottom" width="40%" height="40%">&nbsp;
+**Full GPIO version**  
+<img src="https://raw.githubusercontent.com/hallard/Omega2-IO-Power/master/pictures/Omega2-IO-Power-Full-assembled.jpg" alt="Full">
 
 License
 =======

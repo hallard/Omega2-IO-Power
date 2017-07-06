@@ -38,6 +38,7 @@ Here are example of FTDI 3V3 connector that should work
 - SparkFun Beefy 3 [FTDI Basic Breakout](https://www.sparkfun.com/products/13746) up to 600mA out at 3V3
 - RocketScream [USB/Serial with CH340](http://www.rocketscream.com/blog/product/ch340g-usb-serial-adapter/) up to 100mA out at 3V3
 - EZSBC [Usb To Serial UART 5V or 3V3](https://www.tindie.com/products/ddebeer/usb-to-serial--uart-5v-or-33v-695-/) up to 250mA out at 3V3
+- WeMos [CH340G Breakout 5V 3.3V USB to serial](https://www.aliexpress.com/store/product/WEMOS-CH340G-Breakout-5V-3-3V-USB-to-serial-module/1331105_32664922086.html)
 
 Schematics
 ==========
